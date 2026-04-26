@@ -1,1 +1,1 @@
-# Etude-de-marche-avec-Python
+# Etude de marché avec Python
